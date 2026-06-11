@@ -1,10 +1,15 @@
 # Samsung ScoreFlow Glasses Pro
 
-![Samsung ScoreFlow Glasses Pro](assets/scoreflow-presentation.jpeg)
-
 Landing page conceptual para presentar **Samsung ScoreFlow Glasses Pro**, unas gafas de realidad aumentada pensadas para musicos. El producto proyecta partituras en el campo de vision, avanza paginas automaticamente mientras el musico interpreta y ofrece herramientas de estudio asistidas por IA.
 
 > Proyecto web academico y de portfolio. El producto es ficticio y se utiliza como ejercicio de diseno, desarrollo frontend y comunicacion de producto.
+
+## Vista previa
+
+Como este proyecto esta preparado para ejecutarse en local, la mejor forma de ver el resultado es abrir directamente:
+
+- `index.html`: pagina principal del producto.
+- `detail.html`: ficha de detalle, configuracion y reserva.
 
 ## Demo
 
